@@ -1,0 +1,36 @@
+html{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+body{
+    color: rgb(0, 0, 0);
+    width: 600px;
+    background-color: #d6d7e6;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;}
+.oso1{
+    text-align: center;}
+.agua{
+    background-color: #000000; 
+    color: #fff; 
+    text-align: center; 
+    padding: 10px; 
+    font-size: 14px;}    
+.aguita{
+    color: #fff; 
+    text-decoration: none; 
+    margin: 0 10px;}
+.peluca{
+    color: #2d2d2e;}
+.oso2{
+    font-size: large;
+    text-align: center;}
+.aguas ul {
+    list-style: none;
+    padding: 15px;
+    background-color: #000000; 
+    color: #fff; 
+    text-align: center;  
+    font-size: 14px;}
+img{
+    width: 600px;
+}
